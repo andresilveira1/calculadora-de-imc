@@ -224,6 +224,6 @@ form button:hover {
 
 @media (max-width: 20rem) {
   form {
-    width: 20rem;
+    max-width: 20rem;
   }
 }
