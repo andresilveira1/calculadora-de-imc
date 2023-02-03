@@ -221,3 +221,9 @@ form button:hover {
     font-size: 2.4rem;
   }
 }
+
+@media (max-width: 20rem) {
+  form {
+    width: 20rem;
+  }
+}
